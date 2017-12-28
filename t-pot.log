@@ -1,0 +1,554 @@
+2017-11-17 23:00:02,193 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-11-17 23:00:02,193 - t-pot - INFO - The log conpot.json is not exist
+2017-11-17 23:00:03,905 - t-pot - INFO - Finish import data to Dionaea!
+2017-11-17 23:00:03,931 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun"; filename="${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a\' at line 1')
+2017-11-17 23:00:03,939 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data"> <dataHandler> <da\' at line 1')
+2017-11-17 23:00:03,991 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-17 23:00:04,004 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun"; filename="${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a\' at line 1')
+2017-11-17 23:00:04,089 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data"> <dataHandler> <da\' at line 1')
+2017-11-17 23:00:04,093 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-17 23:00:04,115 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun"; filename="${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a\' at line 1')
+2017-11-17 23:00:04,188 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data"> <dataHandler> <da\' at line 1')
+2017-11-17 23:00:04,189 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-17 23:00:04,255 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun"; filename="${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a\' at line 1')
+2017-11-17 23:00:04,279 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data"> <dataHandler> <da\' at line 1')
+2017-11-17 23:00:04,348 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-17 23:00:04,355 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun"; filename="${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a\' at line 1')
+2017-11-17 23:00:04,400 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data"> <dataHandler> <da\' at line 1')
+2017-11-17 23:00:04,402 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-17 23:00:04,427 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun"; filename="${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a\' at line 1')
+2017-11-17 23:00:04,469 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data"> <dataHandler> <da\' at line 1')
+2017-11-17 23:00:04,513 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-17 23:00:04,995 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-11-15 19:27:30","2017-11-15 19:27:30")\' at line 1')
+2017-11-17 23:00:05,248 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-11-15 19:27:31","2017-11-15 19:27:31")\' at line 1')
+2017-11-17 23:00:06,585 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-11-15 19:27:32","2017-11-15 19:27:32")\' at line 1')
+2017-11-17 23:00:10,433 - t-pot - INFO - Finish import data to glastopf!
+2017-11-17 23:00:12,175 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-11-17 23:00:12,175 - t-pot - INFO - All threads done!
+2017-11-18 23:00:01,710 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-11-18 23:00:01,710 - t-pot - INFO - The log conpot.json is not exist
+2017-11-18 23:00:02,413 - t-pot - INFO - Finish import data to Dionaea!
+2017-11-18 23:00:02,434 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data"> <dataHandler> <da\' at line 1')
+2017-11-18 23:00:02,434 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun"; filename="${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a\' at line 1')
+2017-11-18 23:00:02,518 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-18 23:00:02,525 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun"; filename="${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a\' at line 1')
+2017-11-18 23:00:02,613 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data"> <dataHandler> <da\' at line 1')
+2017-11-18 23:00:02,614 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-18 23:00:02,638 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun"; filename="${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a\' at line 1')
+2017-11-18 23:00:02,648 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data"> <dataHandler> <da\' at line 1')
+2017-11-18 23:00:02,748 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-18 23:00:03,193 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-11-17 19:27:31","2017-11-17 19:27:31")\' at line 1')
+2017-11-18 23:00:03,436 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-11-17 19:27:32","2017-11-17 19:27:32")\' at line 1')
+2017-11-18 23:00:04,733 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-11-17 19:27:34","2017-11-17 19:27:34")\' at line 1')
+2017-11-18 23:00:08,445 - t-pot - INFO - Finish import data to glastopf!
+2017-11-18 23:00:10,094 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-11-18 23:00:10,094 - t-pot - INFO - All threads done!
+2017-11-19 23:00:03,763 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-11-19 23:00:03,763 - t-pot - INFO - The log conpot.json is not exist
+2017-11-19 23:00:04,207 - t-pot - INFO - Finish import data to Dionaea!
+2017-11-19 23:00:04,227 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun"; filename="${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a\' at line 1')
+2017-11-19 23:00:04,295 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data"> <dataHandler> <da\' at line 1')
+2017-11-19 23:00:04,297 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-19 23:00:04,301 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun"; filename="${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a\' at line 1')
+2017-11-19 23:00:04,391 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data"> <dataHandler> <da\' at line 1')
+2017-11-19 23:00:04,393 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-19 23:00:04,812 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-11-19 08:27:46","2017-11-19 08:27:46")\' at line 1')
+2017-11-19 23:00:05,168 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-11-19 08:27:48","2017-11-19 08:27:48")\' at line 1')
+2017-11-19 23:00:06,476 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-11-19 08:27:51","2017-11-19 08:27:51")\' at line 1')
+2017-11-19 23:00:10,177 - t-pot - INFO - Finish import data to glastopf!
+2017-11-19 23:00:10,719 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-11-19 23:00:10,719 - t-pot - INFO - All threads done!
+2017-11-20 23:00:02,089 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-11-20 23:00:02,090 - t-pot - INFO - The log conpot.json is not exist
+2017-11-20 23:00:04,647 - t-pot - INFO - Finish import data to Dionaea!
+2017-11-20 23:00:04,663 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun"; filename="${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a\' at line 1')
+2017-11-20 23:00:04,693 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data"> <dataHandler> <da\' at line 1')
+2017-11-20 23:00:04,695 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-20 23:00:04,758 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun"; filename="${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a\' at line 1')
+2017-11-20 23:00:04,790 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data"> <dataHandler> <da\' at line 1')
+2017-11-20 23:00:04,791 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-20 23:00:04,861 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data"> <dataHandler> <da\' at line 1')
+2017-11-20 23:00:04,862 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun"; filename="${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a\' at line 1')
+2017-11-20 23:00:04,946 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-20 23:00:05,347 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-11-19 19:27:33","2017-11-19 19:27:33")\' at line 1')
+2017-11-20 23:00:05,585 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-11-19 19:27:34","2017-11-19 19:27:34")\' at line 1')
+2017-11-20 23:00:06,792 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-11-19 19:27:36","2017-11-19 19:27:36")\' at line 1')
+2017-11-20 23:00:10,380 - t-pot - INFO - Finish import data to glastopf!
+2017-11-20 23:00:11,847 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-11-20 23:00:11,847 - t-pot - INFO - All threads done!
+2017-11-21 23:00:02,383 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-11-21 23:00:02,383 - t-pot - INFO - The log conpot.json is not exist
+2017-11-21 23:00:03,112 - t-pot - INFO - Finish import data to Dionaea!
+2017-11-21 23:00:03,144 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun"; filename="${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a\' at line 1')
+2017-11-21 23:00:03,182 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data"> <dataHandler> <da\' at line 1')
+2017-11-21 23:00:03,183 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-21 23:00:03,240 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun"; filename="${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a\' at line 1')
+2017-11-21 23:00:03,314 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data"> <dataHandler> <da\' at line 1')
+2017-11-21 23:00:03,319 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-21 23:00:03,350 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun"; filename="${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a\' at line 1')
+2017-11-21 23:00:03,373 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data"> <dataHandler> <da\' at line 1')
+2017-11-21 23:00:03,476 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-21 23:00:03,891 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-11-20 19:27:32","2017-11-20 19:27:32")\' at line 1')
+2017-11-21 23:00:04,162 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-11-20 19:27:34","2017-11-20 19:27:34")\' at line 1')
+2017-11-21 23:00:05,455 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-11-20 19:27:35","2017-11-20 19:27:35")\' at line 1')
+2017-11-21 23:00:11,139 - t-pot - INFO - Finish import data to glastopf!
+2017-11-21 23:00:11,374 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-11-21 23:00:11,374 - t-pot - INFO - All threads done!
+2017-11-22 23:00:02,301 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-11-22 23:00:02,302 - t-pot - INFO - The log conpot.json is not exist
+2017-11-22 23:00:03,021 - t-pot - INFO - Finish import data to Dionaea!
+2017-11-22 23:00:03,107 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun"; filename="${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a\' at line 1')
+2017-11-22 23:00:03,120 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data"> <dataHandler> <da\' at line 1')
+2017-11-22 23:00:03,172 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-22 23:00:03,181 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun"; filename="${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a\' at line 1')
+2017-11-22 23:00:03,212 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data"> <dataHandler> <da\' at line 1')
+2017-11-22 23:00:03,213 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-22 23:00:03,281 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun"; filename="${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a\' at line 1')
+2017-11-22 23:00:03,322 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data"> <dataHandler> <da\' at line 1')
+2017-11-22 23:00:03,324 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-22 23:00:03,809 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-11-21 19:27:30","2017-11-21 19:27:30")\' at line 1')
+2017-11-22 23:00:04,096 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-11-21 19:27:31","2017-11-21 19:27:31")\' at line 1')
+2017-11-22 23:00:05,321 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-11-21 19:27:33","2017-11-21 19:27:33")\' at line 1')
+2017-11-22 23:00:08,917 - t-pot - INFO - Finish import data to glastopf!
+2017-11-22 23:00:09,268 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-11-22 23:00:09,268 - t-pot - INFO - All threads done!
+2017-11-23 23:00:02,084 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-11-23 23:00:02,085 - t-pot - INFO - The log conpot.json is not exist
+2017-11-23 23:00:02,799 - t-pot - INFO - Finish import data to Dionaea!
+2017-11-23 23:00:02,827 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun"; filename="${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a\' at line 1')
+2017-11-23 23:00:02,858 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data"> <dataHandler> <da\' at line 1')
+2017-11-23 23:00:02,859 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-23 23:00:02,891 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun"; filename="${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a\' at line 1')
+2017-11-23 23:00:02,979 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data"> <dataHandler> <da\' at line 1')
+2017-11-23 23:00:02,982 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-23 23:00:03,031 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun"; filename="${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a\' at line 1')
+2017-11-23 23:00:03,083 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data"> <dataHandler> <da\' at line 1')
+2017-11-23 23:00:03,085 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-23 23:00:03,491 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-11-22 19:27:32","2017-11-22 19:27:32")\' at line 1')
+2017-11-23 23:00:03,753 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-11-22 19:27:33","2017-11-22 19:27:33")\' at line 1')
+2017-11-23 23:00:05,029 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-11-22 19:27:34","2017-11-22 19:27:34")\' at line 1')
+2017-11-23 23:00:08,605 - t-pot - INFO - Finish import data to glastopf!
+2017-11-23 23:00:09,211 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-11-23 23:00:09,211 - t-pot - INFO - All threads done!
+2017-11-24 23:00:02,236 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-11-24 23:00:02,237 - t-pot - INFO - The log conpot.json is not exist
+2017-11-24 23:00:02,946 - t-pot - INFO - Finish import data to Dionaea!
+2017-11-24 23:00:02,958 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun"; filename="${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a\' at line 1')
+2017-11-24 23:00:02,991 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data"> <dataHandler> <da\' at line 1')
+2017-11-24 23:00:02,994 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-24 23:00:03,070 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun"; filename="${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a\' at line 1')
+2017-11-24 23:00:03,127 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data"> <dataHandler> <da\' at line 1')
+2017-11-24 23:00:03,130 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-24 23:00:03,150 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun"; filename="${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a\' at line 1')
+2017-11-24 23:00:03,191 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data"> <dataHandler> <da\' at line 1')
+2017-11-24 23:00:03,194 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-24 23:00:03,751 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-11-23 19:27:31","2017-11-23 19:27:31")\' at line 1')
+2017-11-24 23:00:03,982 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-11-23 19:27:32","2017-11-23 19:27:32")\' at line 1')
+2017-11-24 23:00:05,358 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-11-23 19:27:34","2017-11-23 19:27:34")\' at line 1')
+2017-11-24 23:00:11,257 - t-pot - INFO - Finish import data to glastopf!
+2017-11-24 23:00:11,701 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-11-24 23:00:11,701 - t-pot - INFO - All threads done!
+2017-11-25 23:00:01,620 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-11-25 23:00:01,620 - t-pot - INFO - The log conpot.json is not exist
+2017-11-25 23:00:02,203 - t-pot - INFO - Finish import data to Dionaea!
+2017-11-25 23:00:02,252 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun"; filename="${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a\' at line 1')
+2017-11-25 23:00:02,300 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data"> <dataHandler> <da\' at line 1')
+2017-11-25 23:00:02,301 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-25 23:00:02,324 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun"; filename="${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a\' at line 1')
+2017-11-25 23:00:02,407 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data"> <dataHandler> <da\' at line 1')
+2017-11-25 23:00:02,407 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-25 23:00:02,829 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-11-24 19:27:32","2017-11-24 19:27:32")\' at line 1')
+2017-11-25 23:00:03,144 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-11-24 19:27:33","2017-11-24 19:27:33")\' at line 1')
+2017-11-25 23:00:04,418 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-11-24 19:27:34","2017-11-24 19:27:34")\' at line 1')
+2017-11-25 23:00:07,894 - t-pot - INFO - Finish import data to glastopf!
+2017-11-25 23:00:08,075 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-11-25 23:00:08,075 - t-pot - INFO - All threads done!
+2017-11-26 23:00:02,750 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-11-26 23:00:02,751 - t-pot - INFO - The log conpot.json is not exist
+2017-11-26 23:00:03,083 - t-pot - INFO - Finish import data to Dionaea!
+2017-11-26 23:00:03,097 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun"; filename="${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a\' at line 1')
+2017-11-26 23:00:03,123 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data"> <dataHandler> <da\' at line 1')
+2017-11-26 23:00:03,123 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-26 23:00:03,572 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-11-26 08:27:52","2017-11-26 08:27:52")\' at line 1')
+2017-11-26 23:00:03,793 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-11-26 08:27:54","2017-11-26 08:27:54")\' at line 1')
+2017-11-26 23:00:05,214 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-11-26 08:27:57","2017-11-26 08:27:57")\' at line 1')
+2017-11-26 23:00:08,807 - t-pot - INFO - Finish import data to glastopf!
+2017-11-26 23:00:08,971 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-11-26 23:00:08,971 - t-pot - INFO - All threads done!
+2017-11-27 23:00:02,099 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-11-27 23:00:02,113 - t-pot - INFO - The log conpot.json is not exist
+2017-11-27 23:00:02,482 - t-pot - INFO - Finish import data to Dionaea!
+2017-11-27 23:00:02,495 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun"; filename="${(\\u0023a1=333053153\\u0029\\u002e(#a2=1234567890).(#a3=#a1+#a\' at line 1')
+2017-11-27 23:00:02,594 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'com.sun.xml.internal.bind.v2.runtime.unmarshaller.Base64Data"> <dataHandler> <da\' at line 1')
+2017-11-27 23:00:02,602 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-27 23:00:02,990 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-11-26 19:27:31","2017-11-26 19:27:31")\' at line 1')
+2017-11-27 23:00:03,269 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-11-26 19:27:32","2017-11-26 19:27:32")\' at line 1')
+2017-11-27 23:00:04,639 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-11-26 19:27:34","2017-11-26 19:27:34")\' at line 1')
+2017-11-27 23:00:08,281 - t-pot - INFO - Finish import data to glastopf!
+2017-11-27 23:00:08,541 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-11-27 23:00:08,541 - t-pot - INFO - All threads done!
+2017-11-28 23:00:02,327 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-11-28 23:00:02,328 - t-pot - INFO - The log conpot.json is not exist
+2017-11-28 23:00:02,777 - t-pot - INFO - Finish import data to Dionaea!
+2017-11-28 23:00:02,844 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-28 23:00:03,324 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-11-27 19:27:30","2017-11-27 19:27:30")\' at line 1')
+2017-11-28 23:00:03,545 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-11-27 19:27:32","2017-11-27 19:27:32")\' at line 1')
+2017-11-28 23:00:04,870 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-11-27 19:27:33","2017-11-27 19:27:33")\' at line 1')
+2017-11-28 23:00:08,549 - t-pot - INFO - Finish import data to glastopf!
+2017-11-28 23:00:08,873 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-11-28 23:00:08,873 - t-pot - INFO - All threads done!
+2017-11-29 23:00:02,263 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-11-29 23:00:02,264 - t-pot - INFO - The log conpot.json is not exist
+2017-11-29 23:00:03,505 - t-pot - INFO - Finish import data to Dionaea!
+2017-11-29 23:00:03,666 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-29 23:00:03,691 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-29 23:00:03,776 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-29 23:00:03,832 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-29 23:00:03,880 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-29 23:00:03,997 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-in\' at line 1')
+2017-11-29 23:00:04,003 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-29 23:00:04,102 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-29 23:00:04,539 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-11-28 19:27:31","2017-11-28 19:27:31")\' at line 1')
+2017-11-29 23:00:04,772 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-11-28 19:27:33","2017-11-28 19:27:33")\' at line 1')
+2017-11-29 23:00:06,104 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-11-28 19:27:34","2017-11-28 19:27:34")\' at line 1')
+2017-11-29 23:00:09,813 - t-pot - INFO - Finish import data to glastopf!
+2017-11-29 23:00:10,892 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-11-29 23:00:10,893 - t-pot - INFO - All threads done!
+2017-11-30 23:00:01,773 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-11-30 23:00:01,774 - t-pot - INFO - The log conpot.json is not exist
+2017-11-30 23:00:02,559 - t-pot - INFO - Finish import data to Dionaea!
+2017-11-30 23:00:02,589 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-30 23:00:02,665 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-30 23:00:02,703 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-30 23:00:02,775 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-11-30 23:00:03,289 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-11-29 19:27:31","2017-11-29 19:27:31")\' at line 1')
+2017-11-30 23:00:03,487 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-11-29 19:27:33","2017-11-29 19:27:33")\' at line 1')
+2017-11-30 23:00:04,869 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-11-29 19:27:34","2017-11-29 19:27:34")\' at line 1')
+2017-11-30 23:00:08,983 - t-pot - INFO - Finish import data to glastopf!
+2017-11-30 23:00:09,398 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-11-30 23:00:09,398 - t-pot - INFO - All threads done!
+2017-12-01 23:00:01,302 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-12-01 23:00:01,303 - t-pot - INFO - The log conpot.json is not exist
+2017-12-01 23:00:01,810 - t-pot - INFO - Finish import data to Dionaea!
+2017-12-01 23:00:01,879 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-01 23:00:01,960 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-01 23:00:02,498 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-11-30 19:27:32","2017-11-30 19:27:32")\' at line 1')
+2017-12-01 23:00:02,736 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-11-30 19:27:33","2017-11-30 19:27:33")\' at line 1')
+2017-12-01 23:00:04,657 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-11-30 19:27:35","2017-11-30 19:27:35")\' at line 1')
+2017-12-01 23:00:08,233 - t-pot - INFO - Finish import data to glastopf!
+2017-12-01 23:00:08,507 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-12-01 23:00:08,507 - t-pot - INFO - All threads done!
+2017-12-02 23:00:02,358 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-12-02 23:00:02,359 - t-pot - INFO - The log conpot.json is not exist
+2017-12-02 23:00:03,013 - t-pot - INFO - Finish import data to Dionaea!
+2017-12-02 23:00:03,053 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-02 23:00:03,242 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-02 23:00:03,306 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-02 23:00:03,778 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-12-01 19:27:30","2017-12-01 19:27:30")\' at line 1')
+2017-12-02 23:00:04,013 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-12-01 19:27:31","2017-12-01 19:27:31")\' at line 1')
+2017-12-02 23:00:05,334 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-12-01 19:27:32","2017-12-01 19:27:32")\' at line 1')
+2017-12-02 23:00:09,018 - t-pot - INFO - Finish import data to glastopf!
+2017-12-02 23:00:09,477 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-12-02 23:00:09,477 - t-pot - INFO - All threads done!
+2017-12-03 23:00:01,308 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-12-03 23:00:01,309 - t-pot - INFO - The log conpot.json is not exist
+2017-12-03 23:00:01,824 - t-pot - INFO - Finish import data to Dionaea!
+2017-12-03 23:00:01,904 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-03 23:00:01,951 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-03 23:00:04,726 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-12-03 08:28:37","2017-12-03 08:28:37")\' at line 1')
+2017-12-03 23:00:05,009 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-12-03 08:28:40","2017-12-03 08:28:40")\' at line 1')
+2017-12-03 23:00:06,300 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-12-03 08:28:42","2017-12-03 08:28:42")\' at line 1')
+2017-12-03 23:00:09,936 - t-pot - INFO - Finish import data to glastopf!
+2017-12-03 23:00:10,146 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-12-03 23:00:10,146 - t-pot - INFO - All threads done!
+2017-12-04 23:00:02,411 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-12-04 23:00:02,412 - t-pot - INFO - The log conpot.json is not exist
+2017-12-04 23:00:02,926 - t-pot - INFO - Finish import data to Dionaea!
+2017-12-04 23:00:02,963 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-04 23:00:03,059 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-04 23:00:03,496 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-12-03 19:27:32","2017-12-03 19:27:32")\' at line 1')
+2017-12-04 23:00:03,801 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-12-03 19:27:33","2017-12-03 19:27:33")\' at line 1')
+2017-12-04 23:00:05,084 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-12-03 19:27:35","2017-12-03 19:27:35")\' at line 1')
+2017-12-04 23:00:08,739 - t-pot - INFO - Finish import data to glastopf!
+2017-12-04 23:00:09,097 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-12-04 23:00:09,097 - t-pot - INFO - All threads done!
+2017-12-05 23:00:01,633 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-12-05 23:00:01,635 - t-pot - INFO - The log conpot.json is not exist
+2017-12-05 23:00:02,408 - t-pot - INFO - Finish import data to Dionaea!
+2017-12-05 23:00:02,474 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-05 23:00:02,515 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-05 23:00:02,615 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-05 23:00:03,037 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-12-04 19:27:30","2017-12-04 19:27:30")\' at line 1')
+2017-12-05 23:00:03,362 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-12-04 19:27:32","2017-12-04 19:27:32")\' at line 1')
+2017-12-05 23:00:04,700 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-12-04 19:27:33","2017-12-04 19:27:33")\' at line 1')
+2017-12-05 23:00:08,322 - t-pot - INFO - Finish import data to glastopf!
+2017-12-05 23:00:08,722 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-12-05 23:00:08,722 - t-pot - INFO - All threads done!
+2017-12-06 23:00:02,465 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-12-06 23:00:02,466 - t-pot - INFO - The log conpot.json is not exist
+2017-12-06 23:00:03,097 - t-pot - INFO - Finish import data to Dionaea!
+2017-12-06 23:00:03,134 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-06 23:00:03,239 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-06 23:00:03,294 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-06 23:00:03,724 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-12-05 19:27:31","2017-12-05 19:27:31")\' at line 1')
+2017-12-06 23:00:03,966 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-12-05 19:27:32","2017-12-05 19:27:32")\' at line 1')
+2017-12-06 23:00:05,319 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-12-05 19:27:33","2017-12-05 19:27:33")\' at line 1')
+2017-12-06 23:00:08,986 - t-pot - INFO - Finish import data to glastopf!
+2017-12-06 23:00:09,297 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-12-06 23:00:09,297 - t-pot - INFO - All threads done!
+2017-12-07 23:00:02,042 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-12-07 23:00:02,045 - t-pot - INFO - The log conpot.json is not exist
+2017-12-07 23:00:02,857 - t-pot - INFO - Finish import data to Dionaea!
+2017-12-07 23:00:02,943 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-07 23:00:03,051 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-07 23:00:03,146 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-07 23:00:03,170 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-07 23:00:03,638 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-12-06 19:27:31","2017-12-06 19:27:31")\' at line 1')
+2017-12-07 23:00:03,865 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-12-06 19:27:33","2017-12-06 19:27:33")\' at line 1')
+2017-12-07 23:00:05,275 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-12-06 19:27:34","2017-12-06 19:27:34")\' at line 1')
+2017-12-07 23:00:11,058 - t-pot - INFO - Finish import data to glastopf!
+2017-12-07 23:00:11,445 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-12-07 23:00:11,445 - t-pot - INFO - All threads done!
+2017-12-08 23:00:01,800 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-12-08 23:00:01,801 - t-pot - INFO - The log conpot.json is not exist
+2017-12-08 23:00:02,711 - t-pot - INFO - Finish import data to Dionaea!
+2017-12-08 23:00:02,785 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-08 23:00:02,841 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-08 23:00:02,912 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-08 23:00:03,006 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-08 23:00:03,062 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-08 23:00:03,515 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-12-07 19:27:31","2017-12-07 19:27:31")\' at line 1')
+2017-12-08 23:00:03,779 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-12-07 19:27:33","2017-12-07 19:27:33")\' at line 1')
+2017-12-08 23:00:05,193 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-12-07 19:27:34","2017-12-07 19:27:34")\' at line 1')
+2017-12-08 23:00:08,816 - t-pot - INFO - Finish import data to glastopf!
+2017-12-08 23:00:09,443 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-12-08 23:00:09,443 - t-pot - INFO - All threads done!
+2017-12-09 23:00:02,342 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-12-09 23:00:02,343 - t-pot - INFO - The log conpot.json is not exist
+2017-12-09 23:00:03,183 - t-pot - INFO - Finish import data to Dionaea!
+2017-12-09 23:00:03,262 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-09 23:00:03,289 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-09 23:00:03,411 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-09 23:00:03,874 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-12-08 19:27:34","2017-12-08 19:27:34")\' at line 1')
+2017-12-09 23:00:04,107 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-12-08 19:27:35","2017-12-08 19:27:35")\' at line 1')
+2017-12-09 23:00:05,514 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-12-08 19:27:36","2017-12-08 19:27:36")\' at line 1')
+2017-12-09 23:00:09,113 - t-pot - INFO - Finish import data to glastopf!
+2017-12-09 23:00:09,725 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-12-09 23:00:09,726 - t-pot - INFO - All threads done!
+2017-12-10 23:00:02,197 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-12-10 23:00:02,244 - t-pot - INFO - The log conpot.json is not exist
+2017-12-10 23:00:02,777 - t-pot - INFO - Finish import data to Dionaea!
+2017-12-10 23:00:02,816 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-10 23:00:02,940 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-10 23:00:03,328 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-12-10 08:28:08","2017-12-10 08:28:08")\' at line 1')
+2017-12-10 23:00:03,654 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-12-10 08:28:11","2017-12-10 08:28:11")\' at line 1')
+2017-12-10 23:00:05,069 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-12-10 08:28:14","2017-12-10 08:28:14")\' at line 1')
+2017-12-10 23:00:08,796 - t-pot - INFO - Finish import data to glastopf!
+2017-12-10 23:00:09,060 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-12-10 23:00:09,060 - t-pot - INFO - All threads done!
+2017-12-11 23:00:01,413 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-12-11 23:00:01,414 - t-pot - INFO - The log conpot.json is not exist
+2017-12-11 23:00:02,097 - t-pot - INFO - Finish import data to Dionaea!
+2017-12-11 23:00:02,232 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-11 23:00:02,259 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-11 23:00:02,370 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-11 23:00:02,812 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-12-10 19:27:30","2017-12-10 19:27:30")\' at line 1')
+2017-12-11 23:00:03,049 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-12-10 19:27:31","2017-12-10 19:27:31")\' at line 1')
+2017-12-11 23:00:04,438 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-12-10 19:27:33","2017-12-10 19:27:33")\' at line 1')
+2017-12-11 23:00:08,153 - t-pot - INFO - Finish import data to glastopf!
+2017-12-11 23:00:08,924 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-12-11 23:00:08,924 - t-pot - INFO - All threads done!
+2017-12-12 23:00:02,181 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-12-12 23:00:02,182 - t-pot - INFO - The log conpot.json is not exist
+2017-12-12 23:00:02,895 - t-pot - INFO - Finish import data to Dionaea!
+2017-12-12 23:00:02,954 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-12 23:00:03,077 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-12 23:00:03,182 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-12 23:00:03,559 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-12-11 19:27:31","2017-12-11 19:27:31")\' at line 1')
+2017-12-12 23:00:03,854 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-12-11 19:27:32","2017-12-11 19:27:32")\' at line 1')
+2017-12-12 23:00:05,206 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-12-11 19:27:33","2017-12-11 19:27:33")\' at line 1')
+2017-12-12 23:00:11,244 - t-pot - INFO - Finish import data to glastopf!
+2017-12-12 23:00:12,466 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-12-12 23:00:12,467 - t-pot - INFO - All threads done!
+2017-12-13 23:00:02,383 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-12-13 23:00:02,384 - t-pot - INFO - The log conpot.json is not exist
+2017-12-13 23:00:03,059 - t-pot - INFO - Finish import data to Dionaea!
+2017-12-13 23:00:03,133 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-13 23:00:03,167 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-13 23:00:03,279 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-13 23:00:03,687 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-12-12 19:27:38","2017-12-12 19:27:38")\' at line 1')
+2017-12-13 23:00:03,957 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-12-12 19:27:40","2017-12-12 19:27:40")\' at line 1')
+2017-12-13 23:00:05,356 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-12-12 19:27:41","2017-12-12 19:27:41")\' at line 1')
+2017-12-13 23:00:09,064 - t-pot - INFO - Finish import data to glastopf!
+2017-12-13 23:00:09,388 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-12-13 23:00:09,388 - t-pot - INFO - All threads done!
+2017-12-14 23:00:01,860 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-12-14 23:00:01,861 - t-pot - INFO - The log conpot.json is not exist
+2017-12-14 23:00:02,408 - t-pot - INFO - Finish import data to Dionaea!
+2017-12-14 23:00:02,455 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-14 23:00:02,535 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-14 23:00:03,101 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-12-14 02:04:08","2017-12-14 02:04:08")\' at line 1')
+2017-12-14 23:00:03,356 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-12-14 02:04:11","2017-12-14 02:04:11")\' at line 1')
+2017-12-14 23:00:04,729 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-12-14 02:04:15","2017-12-14 02:04:15")\' at line 1')
+2017-12-14 23:00:08,431 - t-pot - INFO - Finish import data to glastopf!
+2017-12-14 23:00:08,905 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-12-14 23:00:08,905 - t-pot - INFO - All threads done!
+2017-12-15 23:00:01,633 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-12-15 23:00:01,633 - t-pot - INFO - The log conpot.json is not exist
+2017-12-15 23:00:02,457 - t-pot - INFO - Finish import data to Dionaea!
+2017-12-15 23:00:02,543 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-15 23:00:02,603 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-15 23:00:02,645 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-15 23:00:03,133 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-12-14 19:27:31","2017-12-14 19:27:31")\' at line 1')
+2017-12-15 23:00:03,422 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-12-14 19:27:32","2017-12-14 19:27:32")\' at line 1')
+2017-12-15 23:00:04,782 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-12-14 19:27:33","2017-12-14 19:27:33")\' at line 1')
+2017-12-15 23:00:08,363 - t-pot - INFO - Finish import data to glastopf!
+2017-12-15 23:00:09,290 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-12-15 23:00:09,291 - t-pot - INFO - All threads done!
+2017-12-16 23:00:01,552 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-12-16 23:00:01,553 - t-pot - INFO - The log conpot.json is not exist
+2017-12-16 23:00:02,174 - t-pot - ERROR - MySQL Dionaea_mysql_command_args Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'select data from yongger3 into DUMPFILE "\',@@plugin_dir,\'\\\\nusql.dll"\')\')\' at line 1')
+2017-12-16 23:00:02,605 - t-pot - INFO - Finish import data to Dionaea!
+2017-12-16 23:00:02,658 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-16 23:00:02,784 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-16 23:00:02,810 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-16 23:00:03,245 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-12-15 19:27:32","2017-12-15 19:27:32")\' at line 1')
+2017-12-16 23:00:03,514 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-12-15 19:27:33","2017-12-15 19:27:33")\' at line 1')
+2017-12-16 23:00:04,812 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-12-15 19:27:34","2017-12-15 19:27:34")\' at line 1')
+2017-12-16 23:00:08,257 - t-pot - INFO - Finish import data to glastopf!
+2017-12-16 23:00:08,691 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-12-16 23:00:08,692 - t-pot - INFO - All threads done!
+2017-12-17 23:00:01,764 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-12-17 23:00:01,769 - t-pot - INFO - The log conpot.json is not exist
+2017-12-17 23:00:02,286 - t-pot - INFO - Finish import data to Dionaea!
+2017-12-17 23:00:02,356 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-17 23:00:02,449 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-17 23:00:02,904 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-12-17 08:28:33","2017-12-17 08:28:33")\' at line 1')
+2017-12-17 23:00:03,125 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-12-17 08:28:36","2017-12-17 08:28:36")\' at line 1')
+2017-12-17 23:00:04,590 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-12-17 08:28:38","2017-12-17 08:28:38")\' at line 1')
+2017-12-17 23:00:08,280 - t-pot - INFO - Finish import data to glastopf!
+2017-12-17 23:00:08,593 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-12-17 23:00:08,593 - t-pot - INFO - All threads done!
+2017-12-18 23:00:01,978 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-12-18 23:00:02,024 - t-pot - INFO - The log conpot.json is not exist
+2017-12-18 23:00:02,680 - t-pot - INFO - Finish import data to Dionaea!
+2017-12-18 23:00:02,748 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-18 23:00:02,818 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-18 23:00:02,935 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-18 23:00:03,348 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-12-17 19:27:31","2017-12-17 19:27:31")\' at line 1')
+2017-12-18 23:00:03,631 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-12-17 19:27:32","2017-12-17 19:27:32")\' at line 1')
+2017-12-18 23:00:07,370 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-12-17 19:27:34","2017-12-17 19:27:34")\' at line 1')
+2017-12-18 23:00:11,032 - t-pot - INFO - Finish import data to glastopf!
+2017-12-18 23:00:11,486 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-12-18 23:00:11,486 - t-pot - INFO - All threads done!
+2017-12-19 23:00:01,861 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-12-19 23:00:01,862 - t-pot - INFO - The log conpot.json is not exist
+2017-12-19 23:00:02,611 - t-pot - INFO - Finish import data to Dionaea!
+2017-12-19 23:00:02,651 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-19 23:00:02,740 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-19 23:00:02,867 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-19 23:00:03,295 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-12-18 19:27:32","2017-12-18 19:27:32")\' at line 1')
+2017-12-19 23:00:03,567 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-12-18 19:27:33","2017-12-18 19:27:33")\' at line 1')
+2017-12-19 23:00:04,990 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-12-18 19:27:34","2017-12-18 19:27:34")\' at line 1')
+2017-12-19 23:00:08,675 - t-pot - INFO - Finish import data to glastopf!
+2017-12-19 23:00:09,032 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-12-19 23:00:09,032 - t-pot - INFO - All threads done!
+2017-12-20 23:00:02,385 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-12-20 23:00:02,388 - t-pot - INFO - The log conpot.json is not exist
+2017-12-20 23:00:03,199 - t-pot - INFO - Finish import data to Dionaea!
+2017-12-20 23:00:03,264 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-20 23:00:03,286 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-20 23:00:03,400 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-20 23:00:03,855 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-12-19 19:27:32","2017-12-19 19:27:32")\' at line 1')
+2017-12-20 23:00:04,095 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-12-19 19:27:34","2017-12-19 19:27:34")\' at line 1')
+2017-12-20 23:00:05,456 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-12-19 19:27:35","2017-12-19 19:27:35")\' at line 1')
+2017-12-20 23:00:09,169 - t-pot - INFO - Finish import data to glastopf!
+2017-12-20 23:00:09,636 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-12-20 23:00:09,636 - t-pot - INFO - All threads done!
+2017-12-21 23:00:03,180 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-12-21 23:00:03,182 - t-pot - INFO - The log conpot.json is not exist
+2017-12-21 23:00:03,897 - t-pot - INFO - Finish import data to Dionaea!
+2017-12-21 23:00:03,997 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-21 23:00:04,097 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-21 23:00:04,130 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-21 23:00:04,562 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-12-20 19:27:32","2017-12-20 19:27:32")\' at line 1')
+2017-12-21 23:00:04,780 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-12-20 19:27:33","2017-12-20 19:27:33")\' at line 1')
+2017-12-21 23:00:06,087 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-12-20 19:27:35","2017-12-20 19:27:35")\' at line 1')
+2017-12-21 23:00:09,812 - t-pot - INFO - Finish import data to glastopf!
+2017-12-21 23:00:10,236 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-12-21 23:00:10,236 - t-pot - INFO - All threads done!
+2017-12-22 23:00:01,989 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-12-22 23:00:01,990 - t-pot - INFO - The log conpot.json is not exist
+2017-12-22 23:00:02,740 - t-pot - INFO - Finish import data to Dionaea!
+2017-12-22 23:00:02,840 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-22 23:00:02,876 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-22 23:00:03,008 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-22 23:00:03,459 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-12-21 19:27:31","2017-12-21 19:27:31")\' at line 1')
+2017-12-22 23:00:03,676 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-12-21 19:27:32","2017-12-21 19:27:32")\' at line 1')
+2017-12-22 23:00:05,035 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-12-21 19:27:33","2017-12-21 19:27:33")\' at line 1')
+2017-12-22 23:00:08,639 - t-pot - INFO - Finish import data to glastopf!
+2017-12-22 23:00:09,021 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-12-22 23:00:09,021 - t-pot - INFO - All threads done!
+2017-12-23 23:00:01,989 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-12-23 23:00:01,989 - t-pot - INFO - The log conpot.json is not exist
+2017-12-23 23:00:02,742 - t-pot - ERROR - MySQL Dionaea_mysql_command_args Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'select data from yongger2 into DUMPFILE "\',@@plugin_dir,\'\\\\cna12.dll"\')\')\' at line 1')
+2017-12-23 23:00:02,794 - t-pot - ERROR - MySQL Dionaea_mysql_command_args Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'select data from yongger2 into DUMPFILE "\',@@plugin_dir,\'\\\\cna12.dll"\')\')\' at line 1')
+2017-12-23 23:00:03,586 - t-pot - INFO - Finish import data to Dionaea!
+2017-12-23 23:00:03,667 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-23 23:00:03,751 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-23 23:00:03,806 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-23 23:00:04,237 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-12-22 19:27:32","2017-12-22 19:27:32")\' at line 1')
+2017-12-23 23:00:04,494 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-12-22 19:27:34","2017-12-22 19:27:34")\' at line 1')
+2017-12-23 23:00:05,834 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-12-22 19:27:35","2017-12-22 19:27:35")\' at line 1')
+2017-12-23 23:00:09,535 - t-pot - INFO - Finish import data to glastopf!
+2017-12-23 23:00:10,022 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-12-23 23:00:10,022 - t-pot - INFO - All threads done!
+2017-12-24 23:00:01,747 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-12-24 23:00:01,769 - t-pot - INFO - The log conpot.json is not exist
+2017-12-24 23:00:02,186 - t-pot - INFO - Finish import data to Dionaea!
+2017-12-24 23:00:02,246 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-24 23:00:02,761 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-12-24 08:27:45","2017-12-24 08:27:45")\' at line 1')
+2017-12-24 23:00:03,030 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-12-24 08:27:47","2017-12-24 08:27:47")\' at line 1')
+2017-12-24 23:00:06,829 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-12-24 08:27:49","2017-12-24 08:27:49")\' at line 1')
+2017-12-24 23:00:10,450 - t-pot - INFO - Finish import data to glastopf!
+2017-12-24 23:00:10,668 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-12-24 23:00:10,669 - t-pot - INFO - All threads done!
+2017-12-25 23:00:01,276 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-12-25 23:00:01,277 - t-pot - INFO - The log conpot.json is not exist
+2017-12-25 23:00:02,225 - t-pot - INFO - Finish import data to Dionaea!
+2017-12-25 23:00:02,307 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-25 23:00:02,365 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-25 23:00:02,820 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-12-24 19:27:33","2017-12-24 19:27:33")\' at line 1')
+2017-12-25 23:00:03,092 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-12-24 19:27:34","2017-12-24 19:27:34")\' at line 1')
+2017-12-25 23:00:04,437 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-12-24 19:27:35","2017-12-24 19:27:35")\' at line 1')
+2017-12-25 23:00:08,025 - t-pot - INFO - Finish import data to glastopf!
+2017-12-25 23:00:08,593 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-12-25 23:00:08,594 - t-pot - INFO - All threads done!
+2017-12-26 23:00:02,162 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-12-26 23:00:02,163 - t-pot - INFO - The log conpot.json is not exist
+2017-12-26 23:00:02,983 - t-pot - ERROR - MySQL Dionaea_mysql_command_args Error:(2014, "Commands out of sync; you can't run this command now")
+2017-12-26 23:00:02,983 - t-pot - ERROR - MySQL Dionaea_mysql_command_args Error:(2014, "Commands out of sync; you can't run this command now")
+2017-12-26 23:00:02,984 - t-pot - ERROR - MySQL Dionaea_mysql_command_args Error:(2014, "Commands out of sync; you can't run this command now")
+2017-12-26 23:00:02,984 - t-pot - ERROR - MySQL Dionaea_mysql_command_args Error:(2014, "Commands out of sync; you can't run this command now")
+2017-12-26 23:00:02,984 - t-pot - ERROR - MySQL Dionaea_mysql_command_args Error:(2014, "Commands out of sync; you can't run this command now")
+2017-12-26 23:00:02,992 - t-pot - ERROR - MySQL Dionaea_mysql_command_args Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'select data from yongger2 into DUMPFILE "\',@@plugin_dir,\'\\\\cna12.dll"\')\')\' at line 1')
+2017-12-26 23:00:03,520 - t-pot - INFO - Finish import data to Dionaea!
+2017-12-26 23:00:03,762 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-26 23:00:03,796 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-26 23:00:03,902 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-26 23:00:04,300 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-12-25 19:27:31","2017-12-25 19:27:31")\' at line 1')
+2017-12-26 23:00:04,606 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-12-25 19:27:32","2017-12-25 19:27:32")\' at line 1')
+2017-12-26 23:00:05,910 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-12-25 19:27:34","2017-12-25 19:27:34")\' at line 1')
+2017-12-26 23:00:09,693 - t-pot - INFO - Finish import data to glastopf!
+2017-12-26 23:00:10,521 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-12-26 23:00:10,521 - t-pot - INFO - All threads done!
+2017-12-27 23:00:01,619 - t-pot - INFO - Finish importing json log to Cowrie!
+2017-12-27 23:00:01,621 - t-pot - INFO - The log conpot.json is not exist
+2017-12-27 23:00:02,211 - t-pot - INFO - Finish import data to Dionaea!
+2017-12-27 23:00:02,265 - t-pot - ERROR - MySQL glastopf_events Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'aliyun": "vulntest"}","unknown","None","3.1.3-dev","t-pot")\' at line 1')
+2017-12-27 23:00:02,762 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'Test","1","2017-12-26 19:27:31","2017-12-26 19:27:31")\' at line 1')
+2017-12-27 23:00:02,986 - t-pot - ERROR - MySQL glastopf_intitle Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'TrackerCam","1","2017-12-26 19:27:32","2017-12-26 19:27:32")\' at line 1')
+2017-12-27 23:00:04,803 - t-pot - ERROR - MySQL glastopf_inurl Error:(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1","2017-12-26 19:27:34","2017-12-26 19:27:34")\' at line 1')
+2017-12-27 23:00:08,416 - t-pot - INFO - Finish import data to glastopf!
+2017-12-27 23:00:08,821 - t-pot - INFO - Finish importing json log to Honeytrap!
+2017-12-27 23:00:08,822 - t-pot - INFO - All threads done!
