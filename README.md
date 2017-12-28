@@ -1,2 +1,2 @@
 # ThreatDataCollect
-This project is for collecting and processing the threat data of T-pot
+This project is for collecting and processing the threat data of Multi-Honeypots
