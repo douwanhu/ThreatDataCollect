@@ -80,8 +80,8 @@ def Data2Glastpof():
 threads = []
 thread_cowrie = threading.Thread(target = Data2Cowrie,args = (),name = 'thread-data2cowrie')
 threads.append(thread_cowrie)
-thread_conpot = threading.Thread(target = Data2Conpot,args = (),name = 'thread-data2conpot')
-threads.append(thread_conpot)
+#thread_conpot = threading.Thread(target = Data2Conpot,args = (),name = 'thread-data2conpot')
+#threads.append(thread_conpot)
 thread_dionaea = threading.Thread(target = Data2Dionaea,args = (),name = 'thread-data2dionaea')
 threads.append(thread_dionaea)
 thread_glastpof = threading.Thread(target = Data2Glastpof,args = (),name = 'thread-data2glastpof')
@@ -89,12 +89,12 @@ threads.append(thread_glastpof)
 thread_honeytrap = threading.Thread(target = Data2Honeytrap,args = (),name = 'thread-data2honeytrap')
 threads.append(thread_honeytrap)
 
-#thread_file_cowrie = threading.Thread(target = ftp_upload,args = ('/data/cowrie/downloads/','cowrie'),name = 'thread-cowrie-ftp')
-#threads.append(thread_file_cowrie)
-#thred_file_dionaea = threading.Thread(target = ftp_upload,args = ('/data/dionaea/binaries/','dionaea'),name = 'thread-dionaea-ftp')
-#threads.append(thread_file_dionaea)
-#thread_file_honeytrap = threading.Thread(target = ftp_upload,args = ('/data/honeytrap/attacks/','honeytrap'),name = 'thread-honeytrap-ftp')
-#threads.append(thread_file_honeytrap)
+thread_file_cowrie = threading.Thread(target = ftp_upload,args = ('/data/cowrie/downloads/','cowrie'),name = 'thread-cowrie-ftp')
+threads.append(thread_file_cowrie)
+thread_file_dionaea = threading.Thread(target = ftp_upload,args = ('/data/dionaea/binaries/','dionaea'),name = 'thread-dionaea-ftp')
+threads.append(thread_file_dionaea)
+thread_file_honeytrap = threading.Thread(target = ftp_upload,args = ('/data/honeytrap/attacks/','honeytrap'),name = 'thread-honeytrap-ftp')
+threads.append(thread_file_honeytrap)
 
 
 
